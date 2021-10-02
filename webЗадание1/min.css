@@ -1,0 +1,35 @@
+#head{
+    color: #1e1112;
+}
+
+main, html {
+    width: 100%;
+}
+
+body {
+}
+
+#first {
+    border-left: 5px solid #ff1a1a;
+}
+#second {
+    border-left: 5px solid #ff1a1a;
+}
+#third {
+    border-left: 5px solid #ff1a1a;
+}
+#four {
+    border-left: 5px solid #ff1a1a;
+}
+#f1mid {
+    border-left: 5px solid #fff708;
+}
+#f2mid {
+    border-left: 5px solid #fff708;
+}
+#f1bot {
+    border-left: 5px solid #288c26;
+}
+#f2bot {
+    border-left: 5px solid #288c26;
+}
